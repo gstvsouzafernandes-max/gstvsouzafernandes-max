@@ -4,9 +4,8 @@ Estudante de Engenharia de Software na PUCRS, em Porto Alegre.
 Gosto de construir produtos do zero e de aprender na prática.
 
 ## No que estou mexendo
-- 📱 Desenvolvendo um aplicativo (projeto pessoal)
 - 🛒 Projetos em grupo com Git, pull requests e revisão de código
-- 📊 Dados e BI no estágio
+- 📊 Dados e BI 
 
 ## Tecnologias
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
